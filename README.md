@@ -1,2 +1,2 @@
-# Vishwakarma
+# Vishwakarma Jyothishalayam
 Certified Astro Service.
